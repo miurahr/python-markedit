@@ -1,4 +1,4 @@
 *.pyc
 build/*
 dist/*
-django_markedit.egg-info/
+markedit.egg-info/

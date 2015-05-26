@@ -3,11 +3,11 @@ import os
 from setuptools import setup, find_packages
 
 setup(
-    name="python-markedit",
+    name="markedit",
     author="Hiroshi Miura",
     author_email="miurahr@linux.com",
     version='0.1',
-    description="markedit library split from symposion",
+    description="markedit library for django integration",
     url="https://github.com/miurahr/python-markedit/",
     packages=['markedit'],
     include_package_data=True,
