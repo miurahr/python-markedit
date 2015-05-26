@@ -3,7 +3,7 @@ import os
 from setuptools import setup, find_packages
 
 setup(
-    name="django-markedit",
+    name="python-markedit",
     author="Hiroshi Miura",
     author_email="miurahr@linux.com",
     version='0.1',
