@@ -10,4 +10,4 @@ https://github.com/tstone/jquery-markedit
 Here is a python package project to make easy installing
 for django integration.
 
-To install, run `pip install python-markedit`
+To install, run `pip install markedit`
