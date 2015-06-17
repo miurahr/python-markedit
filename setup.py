@@ -1,12 +1,11 @@
 #!/usr/bin/env python
-import os
-from setuptools import setup, find_packages
+from setuptools import setup
 
 setup(
     name="markedit",
     author="Hiroshi Miura",
     author_email="miurahr@linux.com",
-    version='0.2.dev1',
+    version='0.2.dev2',
     description="markedit library for django integration",
     url="https://github.com/miurahr/python-markedit/",
     packages=['markedit'],
