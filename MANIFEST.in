@@ -1,1 +1,6 @@
-include README LICENSE
+include README LICENSE requirements.txt
+recursive-include markedit/templates *.html *.js
+recursive-include markedit/static *.js
+recursive-include markedit/static *.css
+recursive-include markedit/static *.png
+recursive-include markedit/static *.gif

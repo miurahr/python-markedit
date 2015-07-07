@@ -9,7 +9,7 @@ setup(
     name="markedit",
     author="Hiroshi Miura",
     author_email="miurahr@linux.com",
-    version='0.2.dev3',
+    version='0.2.dev4',
     description="markedit library for django integration",
     url="https://github.com/miurahr/python-markedit/",
     packages=['markedit'],
@@ -33,9 +33,9 @@ setup(
     ),
     package_data={'markedit': ['templates/markedit/*.html',
                                'templates/markedit/includes/*.html',
-                               'static/js/*.js',
-                               'static/js/lang/*.js',
-                               'static/css/*.css',
-                               'static/css/images/*.[gif|png]'
+                               'static/markedit/*.js',
+                               'static/markedit/lang/*.js',
+                               'static/markedit/*.css',
+                               'static/markedit/images/*.[gif|png]'
                                ]}
 )
